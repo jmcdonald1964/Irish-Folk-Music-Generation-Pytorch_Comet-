@@ -1,3 +1,6 @@
+<img width="1920" height="270" alt="image" src="https://github.com/user-attachments/assets/bd33206a-2b5c-4af9-a5de-683628a33e81" />
+
+
 Intro to Deep Learning in Python -- TensorFlow and PyTorch
 TensorFlow ("TF") and PyTorch ("PT") are software libraries used in machine learning. Here we'll learn how computations are represented and how to define simple neural networks in TensorFlow and PyTorch. The TensorFlow labs will be prefixed by TF; PyTorch labs will be prefixed by PT.
 
